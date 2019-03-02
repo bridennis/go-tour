@@ -19,11 +19,10 @@ type Fetcher interface {
 // Crawl uses fetcher to recursively crawl[]string =
 // pages starting with url, to a maximum of depth.
 func Crawl(url string, depth int, fetcher Fetcher) {
-	type sharedList struct {
+	visitedUrls := struct {
 		k   map[string]bool
 		mux sync.Mutex
-	}
-	visitedUrls := sharedList{
+	}{
 		k: make(map[string]bool),
 	}
 	var wg sync.WaitGroup
