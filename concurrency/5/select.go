@@ -1,5 +1,5 @@
 /*
-	Пример: Числа Фиббоначи (select)
+	Пример: Числа Фибоначчи (select)
 		https://go-tour-ru-ru.appspot.com/concurrency/5
 */
 
