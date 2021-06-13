@@ -1,6 +1,6 @@
 /*
 	Упражнение: ошибки.
-		https://go-tour-ru-ru.appspot.com/methods/20
+		https://tour.golang.org/methods/20
 */
 
 package main

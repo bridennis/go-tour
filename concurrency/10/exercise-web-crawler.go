@@ -1,6 +1,6 @@
 /*
 	Упражнение: поисковый робот
-		https://go-tour-ru-ru.appspot.com/concurrency/10
+		https://tour.golang.org/concurrency/10
 */
 
 package main

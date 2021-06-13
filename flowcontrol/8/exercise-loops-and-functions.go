@@ -1,6 +1,6 @@
 /*
 	Упражнение: циклы и функции. Алгоритм нахождения квадратного корня методом Ньютона.
-		https://go-tour-ru-ru.appspot.com/flowcontrol/8
+		https://tour.golang.org/flowcontrol/8
 */
 
 package main

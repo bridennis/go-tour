@@ -1,6 +1,6 @@
 /*
 	Упражнение: Reader
-		https://go-tour-ru-ru.appspot.com/methods/22
+		https://tour.golang.org/methods/22
 */
 
 package main

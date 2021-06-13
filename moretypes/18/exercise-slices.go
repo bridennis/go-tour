@@ -1,6 +1,6 @@
 /*
 	Упражнение: срезы
-		https://go-tour-ru-ru.appspot.com/moretypes/18
+		https://tour.golang.org/moretypes/18
 */
 
 package main

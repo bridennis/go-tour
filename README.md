@@ -1,4 +1,4 @@
-## [Тур по GO](https://go-tour-ru-ru.appspot.com/)
+## [Тур по GO](https://tour.golang.org/)
 
 ### Решение упражнений
 

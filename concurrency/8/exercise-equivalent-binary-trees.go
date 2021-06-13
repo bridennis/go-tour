@@ -1,6 +1,6 @@
 /*
 	Упражнение: равнозначные двоичные деревья
-		https://go-tour-ru-ru.appspot.com/concurrency/8
+		https://tour.golang.org/concurrency/8
 */
 
 package main

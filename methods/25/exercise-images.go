@@ -1,6 +1,6 @@
 /*
 	Упражнение: изображения
-		https://go-tour-ru-ru.appspot.com/methods/25
+		https://tour.golang.org/methods/25
 */
 
 package main

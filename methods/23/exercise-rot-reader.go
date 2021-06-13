@@ -1,6 +1,6 @@
 /*
 	Упражнение: rot13Reader
-		https://go-tour-ru-ru.appspot.com/methods/23
+		https://tour.golang.org/methods/23
 */
 
 package main

@@ -1,6 +1,6 @@
 /*
 	Пример: Числа Фибоначчи (каналы)
-		https://go-tour-ru-ru.appspot.com/concurrency/4
+		https://tour.golang.org/concurrency/4
 */
 
 package main
