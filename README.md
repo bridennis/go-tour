@@ -5,6 +5,8 @@
 #### Основы
 - [Упражнение: циклы и функции. Алгоритм нахождения квадратного корня методом Ньютона](flowcontrol/8/exercise-loops-and-functions.go)
 - [Упражнение: срезы](moretypes/18/exercise-slices.go)
+- [Упражнение: мапы](moretypes/23/excercise-maps.go)
+- [Упражнение: Fibonacci closure](moretypes/26/exercise-fibonacci-closure.go)
 #### Методы и интерфейсы
 - [Упражнение: ошибки](methods/20/exercise-errors.go)
 - [Упражнение: Reader](methods/22/exercise-reader.go)
