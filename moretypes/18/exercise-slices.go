@@ -9,9 +9,9 @@ import "golang.org/x/tour/pic"
 
 func Pic(dx, dy int) [][]uint8 {
 	area := make([][]uint8, dx)
-	for i := 0; i < dx; i++ {
+	for i := range area {
 		area[i] = make([]uint8, dy)
-		for j := 0; j < dy; j++ {
+		for j := range area[i] {
 			area[i][j] = uint8(i * j)
 		}
 	}
