@@ -57,7 +57,7 @@ func Crawl(url string, depth int, fetcher Fetcher) {
 		}
 	}
 	wg.Add(1)
-	crawler(url, depth)
+	go crawler(url, depth)
 	// Ждём пока закончит свою работу вся группа горутин
 	wg.Wait()
 }
