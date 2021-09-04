@@ -11,10 +11,9 @@ func fibonacci() func() int {
 	firstVal := -1
 	secondVal := 1
 	return func() int {
-		nextVal := firstVal + secondVal
-		firstVal = secondVal
-		secondVal = nextVal
-		return nextVal
+		secondVal = firstVal + secondVal
+		firstVal = secondVal - firstVal
+		return secondVal
 	}
 }
 
