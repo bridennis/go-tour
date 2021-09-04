@@ -8,11 +8,9 @@ package main
 import "fmt"
 
 func fibonacci() func() int {
-	firstVal := -1
-	secondVal := 1
+	firstVal, secondVal := -1, 1
 	return func() int {
-		secondVal = firstVal + secondVal
-		firstVal = secondVal - firstVal
+		firstVal, secondVal = secondVal, firstVal+secondVal
 		return secondVal
 	}
 }
