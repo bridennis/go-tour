@@ -8,6 +8,7 @@
 - [Упражнение: мапы](moretypes/23/excercise-maps.go)
 - [Упражнение: Fibonacci closure](moretypes/26/exercise-fibonacci-closure.go)
 #### Методы и интерфейсы
+- [Упражнение: Stringers](methods/18/exercise-stringer.go)
 - [Упражнение: ошибки](methods/20/exercise-errors.go)
 - [Упражнение: Reader](methods/22/exercise-reader.go)
 - [Упражнение: rot13Reader](methods/23/exercise-rot-reader.go)
